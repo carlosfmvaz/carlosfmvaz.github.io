@@ -1,5 +1,5 @@
 ---
-title: "Design Patterns: Repository with Typescript and Node.js"
+title: "Design Patterns: Repository in Node.js with TypeScript"
 description: >-
   The repository pattern is one of the most used design patterns related to databases and storage in general, it’s a good pattern because it provides an abstraction layer between the application’s data access logic and the underlying data source. <br />
   In this post, let's dive into this pattern implementation with a few Typescript and Node.js code examples.
