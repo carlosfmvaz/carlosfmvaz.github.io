@@ -1,5 +1,5 @@
 ---
-title: "Design Patterns: Repository in Node.js with TypeScript"
+title: "Design Patterns: Dependency Injection and Factory in Node.js with TypeScript"
 description: >-
     After a while without posting anything, I'm back fellas :D<br>
 
