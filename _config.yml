@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Carlos's Logbook # the main title
 
-tagline: Tech Lead/Software Engineer - Node.js | PHP | Typescript | AWS # it will display as the subtitle
+tagline: Lead Software Engineer - Node.js | PHP | Typescript | AWS # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Welcome to my home on the web! I'm Carlos F. Vaz, a web developer and software engineer. 
